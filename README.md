@@ -1,7 +1,7 @@
 ### OLÁ! SOU O RENAN FRANÇA👋
 
 - 🔭 ESTUDANDE DE  JAVASCRIPT FRONT-END 
-- 🌱 17 ANOS PARAÍBA 
+- 🌱 RIO DE JANEIRO / PARAÍBA 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanfranca27&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanfranca27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
