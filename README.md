@@ -3,7 +3,7 @@
 - 🔭 ESTUDANDE DE  JAVASCRIPT FRONT-END 
 - 🌱 RIO DE JANEIRO / PARAÍBA 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanfranca27&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanfranca27&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanfranca27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ##
 </div>
@@ -16,4 +16,6 @@
 ##
 <div>
 <a href="https://instagram.com/renan.si1va/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+ <a href="https://github.com/renanfranca27" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
