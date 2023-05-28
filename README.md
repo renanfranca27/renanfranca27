@@ -16,12 +16,5 @@
    <img align="center" alt="Js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-## operating system 💻
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="windows"  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img align="center" alt="linux"  src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
-</div>
-
-## 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renanfranca27&bg_color=000000&color=ffffff&line=312fac&point=050505&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
