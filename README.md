@@ -1,8 +1,4 @@
-### OLÁ! SOU O RENAN FRANÇA👋
-
-- 🔭 ESTUDANDE DE  JAVASCRIPT FRONT-END 
-- 🌱 RIO DE JANEIRO / PARAÍBA 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00008B&height=120&section=header"/>
 <div style="display: inline_block">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=renanfranca27&show_icons=true&theme=dark" />
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanfranca27&layout=compact&theme=dark"/>
