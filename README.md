@@ -24,7 +24,4 @@
 </div>
 
 ## 
-<div style="display: flex;"><br>
-src=https://github-readme-activity-graph.vercel.app/graph?username=renanfranca27&bg_color=000000&color=ffffff&line=312fac&point=050505&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph
-</div>
-    
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renanfranca27&bg_color=000000&color=ffffff&line=312fac&point=050505&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
