@@ -15,7 +15,7 @@
   </tr> 
      <tr>
     <th align="left">📚 Estudando: </th>
-    <td><img src="https://skillicons.dev/icons?i=javascript,dart,react,nextjs,git" /></td>
+    <td><img src="https://skillicons.dev/icons?i=javascript,dart,flutter,nextjs,git" /></td>
   </tr>
     <tr>
     <th align="left">⚙️Ferramentas:</th>
