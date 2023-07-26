@@ -19,7 +19,7 @@
   </tr>
     <tr>
     <th align="left">⚙️Ferramentas:</th>
-    <td><img src="https://skillicons.dev/icons?i=vscode,figma,linux,windows" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,figma,linux,windows,gitpod" /></td>
   </tr> 
     
 </table>
