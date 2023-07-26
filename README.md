@@ -23,3 +23,10 @@
   </tr> 
     
 </table>
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/renan-silva-920141238//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://api.whatsapp.com/send?phone=5583991797109&text=Ol%C3%A1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://t.me/5583991797109"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:renanfrancabrito27@gmail.com?subject=Digite sobre o assunto :D"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
