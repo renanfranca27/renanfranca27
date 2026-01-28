@@ -12,11 +12,33 @@
     <table>
   <tr>
     <th align="left">👑 Skills: </th>
-    <td><img src="https://skillicons.dev/icons?i=javascript,html,css,git" /></td>
+    <td><span>
+  <code><img src="https://skillicons.dev/icons?i=javascript" /></code>
+  <code><img src="https://skillicons.dev/icons?i=typescript" /></code>
+  <code><img src="https://skillicons.dev/icons?i=tailwind" /></code>
+  <code><img src="https://skillicons.dev/icons?i=react" /></code>
+  <code><img src="https://skillicons.dev/icons?i=nextjs" /></code>
+  <code><img src="https://skillicons.dev/icons?i=html" /></code>
+  <code><img src="https://skillicons.dev/icons?i=css" /></code>
+  <code><img src="https://skillicons.dev/icons?i=styledcomponents" /></code>
+  <code><img src="https://skillicons.dev/icons?i=git" /></code>
+</span></td>
   </tr> 
      <tr>
     <th align="left">📚 Estudando: </th>
-    <td><img src="https://skillicons.dev/icons?i=java,git" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java,git" />
+    <span>
+
+  <code><img src="https://skillicons.dev/icons?i=typescript" /></code>
+  <code><img src="https://skillicons.dev/icons?i=docker" /></code>
+  <code><img src="https://skillicons.dev/icons?i=prisma" /></code>
+  <code><img src="https://skillicons.dev/icons?i=nest" /></code>
+  <code><img src="https://skillicons.dev/icons?i=express" /></code>
+  <code><img src="https://skillicons.dev/icons?i=nodejs" /></code>
+  <code><img src="https://skillicons.dev/icons?i=sass" /></code>
+  <code><img src="https://skillicons.dev/icons?i=postgres" /></code>
+</span>
+    </td>
   </tr>
     <tr>
     <th align="left">⚙️Ferramentas:</th>
